@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @permadiyusuf
+- 👋 Hi, I’m @ysfprmd
 - 👀 I’m interested in machine larning & computer vision
 - 🌱 I’m currently learning openCV & Python
 
